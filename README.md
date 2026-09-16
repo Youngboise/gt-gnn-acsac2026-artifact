@@ -44,7 +44,6 @@ The implementation is organized into six stages:
 gt-gnn-acsac2026-artifact/
 ├── README.md
 ├── LICENSE
-├── requirements.txt
 ├── gt_gnn_phase1_belief_case_study/src                      # Phase 1: belief estimation
 ├── gt_gnn_phase2_belief_gnn/src/                            # Phase 2: belief-conditioned GNN
 ├── gt_gnn_phase3_strategic_graph/src/                       # Phase 3: strategic graph extraction
