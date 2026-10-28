@@ -1,0 +1,24 @@
+# GT-GNN ACSAC 2026 Artifact
+# Python dependencies for the six-stage experimental pipeline.
+#
+# Recommended Python version: 3.10 or 3.11
+# Install with:
+#   python -m pip install -r requirements.txt
+
+# Numerical computing and data handling
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+
+# Graph processing and machine learning
+networkx>=3.1,<4.0
+scikit-learn>=1.3,<2.0
+
+# Neural-network / GNN implementation
+torch>=2.1,<3.0
+torch-geometric>=2.4,<3.0
+
+# Experiment utilities and plotting
+matplotlib>=3.7,<4.0
+tqdm>=4.66,<5.0
+PyYAML>=6.0,<7.0
