@@ -1,3 +1,9 @@
+## Artifact Availability
+
+The permanent archival copy of this artifact is available on Zenodo:
+
+DOI: https://doi.org/10.5281/zenodo.23740824
+
 # GT-GNN ACSAC 2026 Artifact
 
 This repository accompanies the accepted ACSAC 2026 paper:
